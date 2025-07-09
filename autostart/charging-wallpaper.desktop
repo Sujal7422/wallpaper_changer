@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 /home/sujal/.config/autostart/wallpaper_changer.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Charging Wallpaper Changer
+Comment=Auto Wallpaper change
